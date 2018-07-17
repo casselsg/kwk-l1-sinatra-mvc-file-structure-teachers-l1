@@ -14,4 +14,8 @@ class Dog
     @@dog_array
   end
   
+  def walk
+    "The dog is walkinglea"
+  end
+  
 end
