@@ -1,6 +1,6 @@
 class Dog
   # Replace with Dog clas
-  attr_accessor :name, :age, :breed
+  attr_accessor :name, :breed, :age,
   @@dog_array = []
   
   def initialize(name,age,breed)
