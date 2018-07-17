@@ -3,7 +3,7 @@ class Dog
   attr_accessor :name, :breed, :age,
   @@dog_array = []
   
-  def initialize(name,age,breed)
+  def initialize(name,breed,age)
     @name = name
     @age = age
     @breed = breed
