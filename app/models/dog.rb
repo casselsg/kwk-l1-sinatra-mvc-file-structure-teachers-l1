@@ -15,8 +15,3 @@ class Dog
   end
   
 end
-
-
-pluto = Dog.new("Pluto",13,"hound")
-sadie = Dog.new("Sadie",13,"yellow lab")
-puts Dog.all
