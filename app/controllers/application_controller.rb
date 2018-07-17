@@ -13,5 +13,9 @@ get '/bio' do
   erb :karliebio
 end
 
+get '/KarliesKubs' do
+  erb :karlieskubs
+end
+  
 end
 
